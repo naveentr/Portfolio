@@ -1,5 +1,5 @@
 # Harish Singh
-*An Aspiring AI/ML Engineer | Transaction Risk Investigator at Amazon Development Center, Bangalore*
+*An Aspiring Machine Learning Engineer | Transaction Risk Investigator at Amazon Development Center, Bangalore*
 
 # Education
 * Post Graduate Diploma (Data Science), *Amity University*, 2020-2021
