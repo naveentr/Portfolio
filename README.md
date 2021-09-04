@@ -1,9 +1,9 @@
 # Harish Singh
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring AI/ML Engineer | Transaction Risk Investigator as Amazon Development Center*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Post Graduate Diploma (Data Science), *Amity University*, 2020-2021
+* Bachelors of Engineering (Computer Science), *Don Bosco Institute of Technology*, 2014-2018
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](executium-9pCV2MB65y8-unsplash.jpg)
