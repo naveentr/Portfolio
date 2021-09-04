@@ -24,3 +24,6 @@ This project makes use of ***sentiment analysis*** of cryptocurrency coupled wit
 * **Python libraries used:** Streamlit, python-binance, cctx, talib
 * **Input:** Cryptocurrency historical price
 * **Output:** Trading signals triggers buying and selling
+
+Photo by <a href="https://unsplash.com/@executium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Executium</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
