@@ -1,6 +1,14 @@
 # Harish Singh
 *An Aspiring Machine Learning Engineer | Transaction Risk Investigator at Amazon Development Center, Bangalore*
 
+```
+{
+  "firstName": "Harish",
+  "lastName": "Singh",
+  "age": 26
+}
+```
+
 # Education
 * Post Graduate Diploma (Data Science), *Amity University*, 2020-2021
 * Bachelors of Engineering (Computer Science), *Don Bosco Institute of Technology*, 2014-2018
